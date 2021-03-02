@@ -14,7 +14,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   line-height: $global-lineheight;
   color: $global-font-color;
-  background: #4c6444;
+  background: $global-background;
   scroll-behavior: smooth;
   border-top: 3px solid $theme-color;
 }
@@ -26,7 +26,7 @@ body {
 }
 
 ::selection {
-  background: #4c6444;
+  background: $global-background;
   color: #fff;
 }
 
