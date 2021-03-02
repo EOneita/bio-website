@@ -54,7 +54,7 @@ params:
   changyanAppid: ''
   changyanAppkey: ''
   contentCopyright: ''
-  customCSS: []
+  customCSS: [scss/custom_css/eod_adaptedcss.css]
   customJS: []
   dateFormatToUse: '2006-01-02'
   debug: no
