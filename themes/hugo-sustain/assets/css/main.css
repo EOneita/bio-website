@@ -4,7 +4,7 @@ html, body {
   background-color: #f0e7be;
   font-family: 'Georgia', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27a822;
+  border-top: 3px solid #693f2d;
 }
 
 /* Wrapper for page content to push down footer */
@@ -196,7 +196,7 @@ h5 a:hover {
 
 /* Footer  */
 .footer {
-  border-bottom: 5px solid #27a822;
+  border-bottom: 5px solid #693f2d;
   padding: 20px 0;
   text-decoration: none !important;
 }
