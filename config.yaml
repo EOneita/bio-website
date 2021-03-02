@@ -14,7 +14,7 @@ params:
   description: Describe your website
   social:
     Email: edavis@sdzwa.org
-    ResearchGate:
+    ResearchGate: username
     Twitter: @__EODavis
 menu:
   main:
