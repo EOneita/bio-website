@@ -15,7 +15,6 @@ params:
   social:
     Email: edavis@sdzwa.org
     Twitter: username
-
 menu:
   main:
     - identifier: blog
