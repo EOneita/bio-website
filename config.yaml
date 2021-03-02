@@ -14,7 +14,8 @@ params:
   description: Describe your website
   social:
     Email: edavis@sdzwa.org
-    Twitter: @__EODavis
+    Twitter: username
+
 menu:
   main:
     - identifier: blog
