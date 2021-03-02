@@ -1,31 +1,26 @@
 baseURL: https://elizabethoneitadavis.netlify.app
 languageCode: en-US
-title: Chris Turner
+title: Elizabeth Oneita Davis
 disqusShortname: ''
 googleAnalytics: ''
 theme: hugo-sustain
 permalinks:
   post: /:year/:month/:day/:slug
 params:
-  author: Chris Turner
+  author: Elizabeth Oneita Davis
   avatar: img/profile.png
   custom_css: []
   custom_js: []
   description: Describe your website
   social:
-    Email: email@example.com
-    Github: username
-    LinkedIn: username
-    Medium: username
-    RSS: /blog/index.xml
-    Stackoverflow: username
-    Telegram: username
-    Twitter: username
+    Email: edavis@sdzwa.org
+    ResearchGate:
+    Twitter: @__EODavis
 menu:
   main:
     - identifier: blog
-      name: blog
-      url: /blog/
+      name: publications
+      url: /publications/
       weight: 100
     - identifier: projects
       name: projects
