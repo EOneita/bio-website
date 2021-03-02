@@ -1,7 +1,7 @@
 baseURL: http://elizabethoneitadavis.netlify.app
 languageCode: en
 defaultContentLanguage: en
-title: Even - A super concise theme for Hugo
+title: Elizabeth Oneita Davis
 preserveTaxonomyNames: yes
 enableRobotsTXT: yes
 enableEmoji: yes
@@ -17,7 +17,7 @@ disqusShortname: ''
 googleAnalytics: ''
 copyright: ''
 author:
-  name: olOwOlo
+  name: Elizabeth Oneita Davis
 sitemap:
   changefreq: weekly
   filename: sitemap.xml
@@ -29,12 +29,12 @@ menu:
       url: /
       weight: 10
     - identifier: archives
-      name: Archives
-      url: /post/
+      name: Publications
+      url: /publications/
       weight: 20
     - identifier: tags
-      name: Tags
-      url: /tags/
+      name: Resumé
+      url: /resume/
       weight: 30
     - identifier: categories
       name: Categories
