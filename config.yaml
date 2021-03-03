@@ -17,7 +17,7 @@ params:
     Twitter: username
 menu:
   main:
-    - identifier: blog
+    - identifier: publications
       name: publications
       url: /publications/
       weight: 100
