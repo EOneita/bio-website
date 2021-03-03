@@ -31,7 +31,7 @@ html, body {
 .navbar .navbar-nav > li > a:focus,
 .navbar .navbar-text,
 .navbar-toggler {
-  color: #6b6b6b;
+  color: #96735e;
 }
 
 .navbar-nav > .active > a,
@@ -40,7 +40,7 @@ html, body {
 .navbar-nav > .open > a,
 .navbar-nav > .open > a:hover,
 .navbar-nav > .open > a:focus {
-  color: #6b6b6b;
+  color: #96735e;
   background-color: #fff;
 }
 
