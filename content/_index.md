@@ -2,7 +2,7 @@
 {}
 ---
 
-I'm **Elizabeth Oneita Davis**, leader of the Asian Landscapes Hub at the San Diego Zoo Wildlife Alliance (SDZWA) and a Postdoctoral Associate in Community Engagement there.
+I'm **Elizabeth Oneita Davis**, a Researcher in Community Engagement in the Conservation Science department. I lead the Illegal Wildlife Trade Program, a cross-organizational initiative to support local partners in countering trade and consumption-driven threats to wildlife.
 
 I guide SDZWA's collaborative, multi-disciplinary Asian conservation work, and in my role as a Postdoctoral Associate, I conduct research to inform behavior change campaigns to reduce consumer demand for wildlife in Southeast Asia. I work on every aspect, from the *design of surveys and questionnaires*, the *training of field teams*, the *analysis of the data*, and the *interpretation of the data* for lay audiences, scientists, and practitioners.
 
